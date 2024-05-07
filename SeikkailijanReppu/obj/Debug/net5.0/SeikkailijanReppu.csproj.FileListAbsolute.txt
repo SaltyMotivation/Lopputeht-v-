@@ -1,0 +1,15 @@
+C:\Users\s2100946\source\repos\SeikkailijanReppu\obj\Debug\net5.0\SeikkailijanReppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100946\source\repos\SeikkailijanReppu\obj\Debug\net5.0\SeikkailijanReppu.AssemblyInfoInputs.cache
+C:\Users\s2100946\source\repos\SeikkailijanReppu\obj\Debug\net5.0\SeikkailijanReppu.AssemblyInfo.cs
+C:\Users\s2100946\source\repos\SeikkailijanReppu\obj\Debug\net5.0\SeikkailijanReppu.csproj.CoreCompileInputs.cache
+C:\Users\s2100946\source\repos\SeikkailijanReppu\bin\Debug\net5.0\SeikkailijanReppu.exe
+C:\Users\s2100946\source\repos\SeikkailijanReppu\bin\Debug\net5.0\SeikkailijanReppu.deps.json
+C:\Users\s2100946\source\repos\SeikkailijanReppu\bin\Debug\net5.0\SeikkailijanReppu.runtimeconfig.json
+C:\Users\s2100946\source\repos\SeikkailijanReppu\bin\Debug\net5.0\SeikkailijanReppu.runtimeconfig.dev.json
+C:\Users\s2100946\source\repos\SeikkailijanReppu\bin\Debug\net5.0\SeikkailijanReppu.dll
+C:\Users\s2100946\source\repos\SeikkailijanReppu\bin\Debug\net5.0\ref\SeikkailijanReppu.dll
+C:\Users\s2100946\source\repos\SeikkailijanReppu\bin\Debug\net5.0\SeikkailijanReppu.pdb
+C:\Users\s2100946\source\repos\SeikkailijanReppu\obj\Debug\net5.0\SeikkailijanReppu.dll
+C:\Users\s2100946\source\repos\SeikkailijanReppu\obj\Debug\net5.0\ref\SeikkailijanReppu.dll
+C:\Users\s2100946\source\repos\SeikkailijanReppu\obj\Debug\net5.0\SeikkailijanReppu.pdb
+C:\Users\s2100946\source\repos\SeikkailijanReppu\obj\Debug\net5.0\SeikkailijanReppu.genruntimeconfig.cache
