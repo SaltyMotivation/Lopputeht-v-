@@ -1,0 +1,16 @@
+C:\Users\s2100946\source\repos\Nuoli\bin\Debug\net5.0\Nuoli.exe
+C:\Users\s2100946\source\repos\Nuoli\bin\Debug\net5.0\Nuoli.deps.json
+C:\Users\s2100946\source\repos\Nuoli\bin\Debug\net5.0\Nuoli.runtimeconfig.json
+C:\Users\s2100946\source\repos\Nuoli\bin\Debug\net5.0\Nuoli.runtimeconfig.dev.json
+C:\Users\s2100946\source\repos\Nuoli\bin\Debug\net5.0\Nuoli.dll
+C:\Users\s2100946\source\repos\Nuoli\bin\Debug\net5.0\ref\Nuoli.dll
+C:\Users\s2100946\source\repos\Nuoli\bin\Debug\net5.0\Nuoli.pdb
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\Nuoli.csproj.AssemblyReference.cache
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\Nuoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\Nuoli.AssemblyInfoInputs.cache
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\Nuoli.AssemblyInfo.cs
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\Nuoli.csproj.CoreCompileInputs.cache
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\Nuoli.dll
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\ref\Nuoli.dll
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\Nuoli.pdb
+C:\Users\s2100946\source\repos\Nuoli\obj\Debug\net5.0\Nuoli.genruntimeconfig.cache
